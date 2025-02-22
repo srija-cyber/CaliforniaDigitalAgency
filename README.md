@@ -1,10 +1,10 @@
-## California Digital Agency - Responsive Landing Page
+# California Digital Agency - Responsive Landing Page
 
-# Overview
+## Overview
 
 This project is a California Digital Agency landing page, developed using HTML, CSS, and Bootstrap. It is inspired by the "Digital Page" design and features a modern, interactive, and fully responsive layout. The landing page is optimized for seamless cross-device compatibility, ensuring a smooth user experience across desktops, tablets, and mobile devices.
 
-# Features
+## Features
 
 Fully Responsive Design: The page adapts to different screen sizes for an optimal viewing experience.
 
@@ -18,7 +18,7 @@ Optimized Performance: Efficient code structure for faster loading and better us
 
 Design Accuracy: Focused on replicating the original design with high precision.
 
-# Technologies Used
+## Technologies Used
 
 HTML5 - Structuring the web page content.
 
@@ -28,7 +28,7 @@ Bootstrap 5 - Responsive grid system and pre-built components.
 
 Installation & Setup
 
-# Usage
+## Usage
 
 Modify the HTML and CSS files to customize the design according to your needs.
 
@@ -36,10 +36,10 @@ Add interactive elements using JavaScript if required.
 
 Deploy the project on platforms like GitHub Pages, Netlify, or Vercel for online access.
 
-# Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-# License
+## License
 
 This project is open-source and available under the MIT License.
